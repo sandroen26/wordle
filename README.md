@@ -1,2 +1,2 @@
 # wordle
-# este juego costo 1 millon de dolares 
+# este es un prototipo para crear un juego
